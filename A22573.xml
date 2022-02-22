@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King His Maiesties Proclamation restraining the abuses in gold weights fraudulently committed contrary to a former.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1634</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22573</idno>
+            <idno type="STC">STC 9015</idno>
+            <idno type="STC">ESTC S123849</idno>
+            <idno type="EEBO-CITATION">33150703</idno>
+            <idno type="OCLC">ocm 33150703</idno>
+            <idno type="VID">28717</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22573)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28717)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1877:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King His Maiesties Proclamation restraining the abuses in gold weights fraudulently committed contrary to a former.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[3] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, Printer to the Kings most Excellent Maiestie: and by the Assignes of Iohn Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1634.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Giuen at the Court at Greenewich, this fift [sic] day of May, in  the tenth yeere of the Reigne of Our Soueraigne Lord Charles, by the grace  of God King of England Scotland, France and Ireland, Defender of the Faith, &amp;c."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Aylesbury, Thomas, --  Sir 1580-1657.</term>
+               <term>Weights and measures --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term>Goldweights --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <head>
+               <figure>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <pb facs="tcp:28717:1"/>
+            <!-- PDF PAGE 1 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the King. His Maieſties Proclamation reſtraining the abuſes in Gold VVeights fraudulently committed con<g ref="char:EOLhyphen"/>trary to a former.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Here Our Soueraigne Lord the King by Proclamation giuen</hi> at the Court at <hi>White Hall</hi> the Twentieth Day of <hi>December,</hi> in the Eighth yeere of His Maieſties Reigne: for reformation of great abuſes in the Counterpoiſes and Weights of His money of Gold, and Graines and halfe Graines to bee vſed in poyſing of them, did publiſh and declare that the Weights wherewith his Maieſties money of Gold ſhould bee poiſed after the ſixe and Twentieth day of <hi>Ianuary</hi> then next enſuing, ſhould bee made of a round and Cir<g ref="char:EOLhyphen"/>cular forme, wherein ſhould bee inſcribed certaine markes that they might eaſily be knowne from Weights formerly vſed, which ſhould be of the full and iuſt ſize according to the true Weights of the Gold moneys, and the Graines and halfe Graines ſhould bee apart by them<g ref="char:EOLhyphen"/>ſeiues to ſhew the remedies and abatements as they ought to bee, and none of them ſhould bee made with the remedies and <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>batements purpoſely taken off, (commonly called Blancke-Weights;)</p>
+            <p>And for the better effecting of His Maieſties pleaſure, His Maieſtie did commit the care of Making and Aſſizing of thoſe Counterpoyſes and weights to Sir <hi>Thomas Aylesbury,</hi> Baronet, one of the Maſters of Requeſt, whom his Maieſtie commanded to haue in readineſſe in the Lowre of <hi>London,</hi> ſufficient numbers of the ſaid Weights, Graines, and halfe Graines, with
+<pb facs="tcp:28717:2"/>
+               <!-- PDF PAGE 2 -->
+iuſt and equall Beames and Ballances for the vſe of them, exactly and diligently made and ſized to furniſh His Subiects by the ſaid ſixe and twentieth day of <hi>Ianuary,</hi> to bee iſſued at reaſonable prizes;</p>
+            <p>And His Maieſties will and Pleaſure was, that the Chiefe Officers, in all Cities, Bo<g ref="char:EOLhyphen"/>roughs and Townes Corporate, with all Conuenient ſpeede, ſhould prouide one paire of the ſaid Weights and Ballances, ſufficient, at the hands of the ſaid Sir <hi>Thomas Ayleſbury,</hi> or ſuch as hee ſhould appoint to deliuer the ſame, made according to the faſhion aforeſaid, within euery ſuch City, Borough and Towne Corporate; well and ſafely to be kept, that ſuch as would, might haue recourſe and acceſſe vnto them, for diſcerning of the true weights of His Maieſties Moneys of Gold, whereof receipts or payments ſhould bee, as occaſion ſhould require;</p>
+            <p>And his Maieſtie did ſtraightly Inhibite all His Subiects, and others whatſoeuer within His Dominions, after the ſaid ſixe and twentieth day of Ianuary, to haue, or vſe any o<g ref="char:EOLhyphen"/>ther weights, of, or for the Coynes of Gold, and remedies thereof, then onely ſuch as ſhould be made circular, and ſized and iſſued by the appointment of the ſaid Sir <hi>Thomas Ayleſbury.</hi> And that no perſon, or perſons, of what eſtate, degree, or condition ſoeuer they were or ſhould be, ſhould at any time then after preſume to make, caſt, contriue, frame or cauſe to be made any Counterpoyſes, or Weights, Graines or halfe Graines, or any Toole or Inſtrument, Preſſe, Mill, Stampes, Punchions, Counterpunchions, or any thing elſe whatſoeuer, for the making, caſting, framing or preparing of ſuch weights, or vent, or import the ſame made, o<g ref="char:EOLhyphen"/>ther then the ſaid Sir <hi>Thomas Ayleſbury,</hi> or ſuch as ſhould bee thereunto appointed by his Maieſtie, vpon paine of His Maieſties High Indignation and diſpleaſure, and ſuch other paines and penalties, as by the Lawes and Statutes of His Maieſties Realme, or by His Maieſties Prerogatiue Royall, could or might bee inflicted vpon contemners of His Maieſties Proclamations and Royall Commands;</p>
+            <p>And it was His Maieſties pleaſure, that in receits and payments of His Maieſties moneys of Gold, none ſhould bee compelled to trie the Weight thereof by other Poyſes or Weights then thoſe that ſhould bee made of a forme circular, as is before ſet foorth;</p>
+            <p>Sithence which time ſome euill diſpoſed perſons, without the aſſent, and againſt the will of the ſaid Sir <hi>Thomas Ayleſbury</hi> haue preſumed to make diuers Counterpoyſes and Weights of His Maieſties Moneys of Gold, and Graines, and halfe Graines for poyſing thereof, which were vnequall and defectiue, which were endeauoured to bee put to ſale, which being diſcouered by the care of the ſaid Sir <hi>Thomas Aylesbury,</hi> according to dutie, and in diſcharge of the truſt repoſed in him, hee made the ſame knowne to the Lords of His Maieſties Priuie Counſell: and thereupon thoſe falſe Counterpoiſes, Weights, Graines and halfe Graines were ſeiſed vpon, and being found defectiue, are by command melted downe, whereby a great inconuenience which might otherwiſe happen to His Maieſties people is preuented: And ſome of the Delinquents haue for that attempt beene chaſtiſed:</p>
+            <p>
+               <pb facs="tcp:28717:3"/>
+               <!-- PDF PAGE 3 -->
+Our ſaid Soueraigne Lord the King of His great and abundant care that His Iuſtice, both in His Courts and Commerce amongſt His people bee duely adminiſtred and obſerued, and that His people bee not deceiued with falſe Weights, which are abominable: by the aduice of His Priuie Counſell, doth againe ſtraightly Inhibite all His Subiects, that none of them doe make, forme, or offer to put to ſale any Counterpoyſes or Weights of the moneys of Gold, or Graines, or halfe Graines to be vſed in poyſing thereof, but the ſaid Sir <hi>Thomas Aylesbury,</hi> or ſuch as firſt ſhall haue Licence from the ſaid Sir <hi>Thomas Aylesbury,</hi> to vent the ſame;</p>
+            <p>And doeth alſo by theſe preſents, ſtraightly inhibite all His Subiects and others whatſoe<g ref="char:EOLhyphen"/>uer within His Dominions, to haue, or vſe publikely, or priuately in ſhoppes or elſe-where any other Weights of or for the Coynes of Gold and remedies thereof, then onely ſuch as ſhall bee made circular and ſiſed, and iſſued by the appointment of the ſaid Sir <hi>Thomas Aylesbury:</hi>
+            </p>
+            <p>And doth likewiſe charge the ſaid Sir <hi>Thomas Aylesbury,</hi> that hee ſhall imploy none in making, venting, or iſſuing of any ſuch Counterpoyſes, Weights, Graines or halfe Graines, but in ſuch manner as in the ſaid former Proclamation is ſpecified: Letting all men know, His Maieſtie intends with all ſeueritie to proceed againſt all ſuch as ſhall contemne, or not yeeld obedience to this and His ſaid former Proclamation.</p>
+            <closer>
+               <dateline>Giuen at the Court at Greenewich <date>this fiſt day of May, in the tenth yeere of the Reigne of Our Soueraigne Lord CHARLES,</date> by the grace of God King of ENGLAND, SCOTLAND, FRANCE, and IRELAND, Defen<g ref="char:EOLhyphen"/>der of the Faith, &amp;c.</dateline>
+               <lb/>
+God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by Robert Barker, Printer to the Kings moſt Excellent Maieſtie: and by the Aſsignes of Iohn Bill. 1634.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
